@@ -22,3 +22,7 @@ Now setup xfce
     java -jar ~/xfce_bing_wallpaper/Xfce.jar
     
 Bravo it's OK your background will be updated everyday with bing daily wallpaper
+
+POSSIBLE ISSUE
+JavalangException : No class Definition Found 
+If you get this error create a new eclipse or netbeans java project copy the code source and create a runnable jar file
