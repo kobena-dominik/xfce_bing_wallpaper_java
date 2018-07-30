@@ -5,6 +5,7 @@ This java program lets you update the bing wallpaper of the day for Xfce4 enviro
 
 This program check first wether or not you already have the bing wallpaper of the day before downloading it. So it uses no bandwith unnecessarily.
 This program checks wether or not the bing wallpaper of the day is already set before setting it.
+This program will wait for an internet connection if the download fail / 
 
 So what are you waiting ???? Enjoy the bing wallpaper of the Day.
 
